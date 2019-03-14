@@ -1,0 +1,352 @@
+[
+  {
+    "component": "READING",
+    "band": 9,
+    "minMarks": 39,
+    "maxMarks": 40,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 8.5,
+    "minMarks": 37,
+    "maxMarks": 38,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 8,
+    "minMarks": 35,
+    "maxMarks": 36,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 7.5,
+    "minMarks": 33,
+    "maxMarks": 34,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 7,
+    "minMarks": 30,
+    "maxMarks": 32,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 6.5,
+    "minMarks": 27,
+    "maxMarks": 29,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 6,
+    "minMarks": 23,
+    "maxMarks": 26,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 5.5,
+    "minMarks": 19,
+    "maxMarks": 22,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 5,
+    "minMarks": 15,
+    "maxMarks": 18,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 4.5,
+    "minMarks": 13,
+    "maxMarks": 14,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 4,
+    "minMarks": 10,
+    "maxMarks": 12,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 3.5,
+    "minMarks": 8,
+    "maxMarks": 9,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 3,
+    "minMarks": 6,
+    "maxMarks": 7,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "READING",
+    "band": 2.5,
+    "minMarks": 4,
+    "maxMarks": 5,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 9,
+    "minMarks": 39,
+    "maxMarks": 40,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 8.5,
+    "minMarks": 37,
+    "maxMarks": 38,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 8,
+    "minMarks": 35,
+    "maxMarks": 36,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 7.5,
+    "minMarks": 32,
+    "maxMarks": 34,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 7,
+    "minMarks": 30,
+    "maxMarks": 31,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 6.5,
+    "minMarks": 26,
+    "maxMarks": 29,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 6,
+    "minMarks": 23,
+    "maxMarks": 25,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 5.5,
+    "minMarks": 18,
+    "maxMarks": 22,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 5,
+    "minMarks": 16,
+    "maxMarks": 17,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 4.5,
+    "minMarks": 13,
+    "maxMarks": 15,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 4,
+    "minMarks": 11,
+    "maxMarks": 12,
+    "category": "ACADEMIC"
+  },
+  {
+    "component": "LISTENING",
+    "band": 9,
+    "minMarks": 39,
+    "maxMarks": 40,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 8.5,
+    "minMarks": 37,
+    "maxMarks": 38,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 8,
+    "minMarks": 35,
+    "maxMarks": 36,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 7.5,
+    "minMarks": 32,
+    "maxMarks": 34,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 7,
+    "minMarks": 30,
+    "maxMarks": 31,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 6.5,
+    "minMarks": 26,
+    "maxMarks": 29,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 6,
+    "minMarks": 23,
+    "maxMarks": 25,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 5.5,
+    "minMarks": 18,
+    "maxMarks": 22,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 5,
+    "minMarks": 16,
+    "maxMarks": 17,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 4.5,
+    "minMarks": 13,
+    "maxMarks": 15,
+    "category": "GENERAL"
+  },
+  {
+    "component": "LISTENING",
+    "band": 4,
+    "minMarks": 11,
+    "maxMarks": 12,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 9,
+    "minMarks": 40,
+    "maxMarks": 40,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 8.5,
+    "minMarks": 39,
+    "maxMarks": 39,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 8,
+    "minMarks": 37,
+    "maxMarks": 38,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 7.5,
+    "minMarks": 36,
+    "maxMarks": 36,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 7,
+    "minMarks": 34,
+    "maxMarks": 35,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 6.5,
+    "minMarks": 32,
+    "maxMarks": 33,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 6,
+    "minMarks": 30,
+    "maxMarks": 31,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 5.5,
+    "minMarks": 27,
+    "maxMarks": 29,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 5,
+    "minMarks": 23,
+    "maxMarks": 26,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 4.5,
+    "minMarks": 19,
+    "maxMarks": 22,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 4,
+    "minMarks": 15,
+    "maxMarks": 18,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 3.5,
+    "minMarks": 12,
+    "maxMarks": 14,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 3,
+    "minMarks": 9,
+    "maxMarks": 11,
+    "category": "GENERAL"
+  },
+  {
+    "component": "READING",
+    "band": 2.5,
+    "minMarks": 6,
+    "maxMarks": 8,
+    "category": "GENERAL"
+  }
+]

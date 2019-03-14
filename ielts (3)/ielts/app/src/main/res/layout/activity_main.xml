@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context="in.ac.darshan.www.ielts.activities.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_acd"
+            style="@style/btn_style"
+            android:layout_margin="8dp"
+            android:text="@string/title1" />
+
+        <Button
+            android:id="@+id/btn_gen"
+            style="@style/btn_style"
+            android:layout_margin="8dp"
+            android:text="@string/title2" />
+
+        <Button
+            android:id="@+id/btn_accob"
+            style="@style/btn_style"
+            android:layout_margin="8dp"
+            android:text="@string/title9" />
+
+        <Button
+            android:id="@+id/btn_dialog"
+            style="@style/btn_style"
+            android:layout_margin="8dp"
+            android:text="dialog" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

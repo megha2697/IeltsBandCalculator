@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Ielts</string>
+    <string name="title1">ACADEMIC</string>
+    <string name="title2">GENERAL</string>
+    <string name="title3">LISTENING</string>
+    <string name="title4">ENTER YOUR MARKS(OUT OF 40)</string>
+    <string name="title5">READING</string>
+    <string name="title6">WRITING</string>
+    <string name="title7">SPEAKING</string>
+    <string name="title8">SUBMIT</string>
+    <string name="title9">CALCULATE OVERALL BAND</string>
+    <string name="title10">BAND</string>
+    <string name="title11">ENTER YOUR BAND FROM(2.5-9)</string>
+    <string name="title12">MARKS TO BAND</string>
+    <string name="title13">BAND TO MARKS</string>
+    <string name="title14">MARKS</string>
+    <string name="title15">SPEAKING</string>
+    <string name="title16">WRITING</string>
+    <string name="title17">ENTER BANDS FROM (4-9)</string>
+    <string name="title18">hello_world</string>
+
+
+
+    <string-array name="strlist">
+        <!--<item>- Select band-</item>-->
+        <item>9</item>
+        <item>8.5</item>
+        <item>8</item>
+        <item>7.5</item>
+        <item>7</item>
+        <item>6.5</item>
+        <item>6</item>
+        <item>5.5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>3</item>
+        <item>2.5</item>
+        <item>2</item>
+        <item>1.5</item>
+    </string-array>
+
+    <string-array name="strread">
+        <!--<item>- Select band-</item>-->
+        <item>9</item>
+        <item>8.5</item>
+        <item>8</item>
+        <item>7.5</item>
+        <item>7</item>
+        <item>6.5</item>
+        <item>6</item>
+        <item>5.5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>3</item>
+        <item>2.5</item>
+        <item>2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="strwrite">
+        <!--<item>- Select band-</item>-->
+        <item>9</item>
+        <item>8.5</item>
+        <item>8</item>
+        <item>7.5</item>
+        <item>7</item>
+        <item>6.5</item>
+        <item>6</item>
+        <item>5.5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>3</item>
+        <item>2.5</item>
+        <item>2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="strspeak">
+        <!--<item>- Select band-</item>-->
+        <item>9</item>
+        <item>8.5</item>
+        <item>8</item>
+        <item>7.5</item>
+        <item>7</item>
+        <item>6.5</item>
+        <item>6</item>
+        <item>5.5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>3</item>
+        <item>2.5</item>
+        <item>2</item>
+        <item>1.5</item>
+    </string-array>
+</resources>

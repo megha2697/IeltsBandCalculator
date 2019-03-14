@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.activity.ComponentActivity void onBackPressed()'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

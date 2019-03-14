@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lay_main_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_ac"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="ACADEMIC"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/card"
+        android:padding="10dp"
+        android:elevation="10dp"
+        >
+
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       >
+        <TextView
+            android:id="@+id/tv_aclist"
+            style="@style/text"
+            android:layout_weight="1"
+            android:text="@string/title3" />
+
+        <Spinner
+            android:id="@+id/sp_aclist"
+            style="@style/spinner_style"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_acread"
+            style="@style/text"
+            android:layout_weight="1"
+            android:text="@string/title5" />
+
+        <Spinner
+            android:id="@+id/sp_acread"
+            style="@style/spinner_style"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_acwrite"
+            style="@style/text"
+            android:layout_weight="1"
+            android:text="@string/title6" />
+
+        <Spinner
+            android:id="@+id/sp_acwrite"
+            style="@style/spinner_style"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_acspeak"
+            style="@style/text"
+            android:layout_weight="1"
+            android:text="@string/title7" />
+
+        <Spinner
+            android:id="@+id/sp_acspeak"
+            style="@style/spinner_style"
+            android:layout_weight="1" />
+
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+           android:gravity="center"
+            android:textSize="20dp"
+            android:textStyle="bold"
+
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <Button
+        android:id="@+id/btn_mb"
+        style="@style/btn_style"
+        android:text="@string/title12" />
+
+    <Button
+        android:id="@+id/btn_bm"
+        style="@style/btn_style"
+        android:text="@string/title13" />
+</LinearLayout>
+
+
+
+</LinearLayout>
+
